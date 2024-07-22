@@ -14,11 +14,11 @@ export default function Langues() {
 
                 <div className='flex justify-center items-center w-44 gap-10'>
                     <img className='w-20 h-20' src="/drapeau/england.png" alt="England" />
-                    <h5> Notion</h5>
+                    <h5> A2</h5>
                 </div>
                 <div className='flex justify-center items-center w-44 gap-10'>
                     <img className='w-20 h-20' src="/drapeau/spain.png" alt="Spain" />
-                    <h5> Notion</h5>
+                    <h5> A2</h5>
                 </div>
 
 

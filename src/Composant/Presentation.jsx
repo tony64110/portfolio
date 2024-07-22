@@ -10,7 +10,7 @@ export default function Presentation() {
                     <h2 className='text-4xl md:text-[60px] text-center font-extrabold'>Anthony Dumartin</h2>
                     <h3 className='text-lg md:text-xl text-center'>En recherche d'alternance de Développeur Full-Stack</h3>
                 </div>
-                <img className='w-24 h-24 md:w-24 md:h-40 rounded-2xl mt-4 md:mt-0' src="./drapeau/photo.jpg" alt="Photo d'Anthony Dumartin" />
+                <img className='w-24 h-24 md:w-24 md:h-40 rounded-2xl mt-4 md:mt-0' src="./drapeau/photoportfolio.jpg" alt="Photo d'Anthony Dumartin" />
             </div>
             <div className='flex flex-col items-center justify-center'>
                 <div className='flex flex-col gap-5 mb-4 md:mb-10'></div>
