@@ -15,7 +15,7 @@ export default function ExperiencesProfessionnelles() {
     return (
 <div className='h-auto md:h-60'>
     <div className='flex justify-center'>
-        <h3 className="bg-[#15616D] text-[#FDFFFF] font-orbitron rounded-full text-center text-3xl w-full p-4 md:p-5 border-white shadow-2xl">Expériences professionnelles</h3>
+        <h3 className="bg-[#15616D] text-[#FDFFFF] font-orbitron rounded-full text-center text-3xl w-auto p-4 md:p-5 border-white shadow-2xl">Expériences professionnelles</h3>
     </div>
     <div className='flex flex-col md:flex-row justify-center items-center gap-6 md:gap-10 mt-6 md:mt-10'>
         {experiences && experiences.map(item =>
