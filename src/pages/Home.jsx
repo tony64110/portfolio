@@ -35,7 +35,7 @@ export default function Home() {
 
                     <div className='flex  flex-col gap-10 mt-20  z-10 ' >
                         <div className='justify-center items-center mb-10 rounded-xl z-10  '>
-                            <div className='flex justify-center items-center z-10 '>
+                            <div className='flex justify-center items-center z-10 mt-10 '>
 
                                 <Competences />
                             </div>
